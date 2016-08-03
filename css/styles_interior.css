@@ -1,0 +1,28 @@
+body {
+  background-color: #808080;
+  font-family: sans-serif;
+  color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 150px;
+  border: solid 1px;
+  margin-bottom: 10px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  border: solid 5px;
+  margin-right: 10px;
+  align-items: center;
+  justify-content: center;
+}
