@@ -18,11 +18,32 @@ img {
   margin-bottom: 10px;
 }
 
-.column {
+.column_before {
   width: 300px;
   float: left;
   border: solid 5px;
   margin-right: 10px;
   align-items: center;
   justify-content: center;
+  background-color: #F77B61
+}
+
+.column_during {
+  width: 300px;
+  float: left;
+  border: solid 5px;
+  margin-right: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: #E0F761
+}
+
+.column_after {
+  width: 300px;
+  float: left;
+  border: solid 5px;
+  margin-right: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: #B0FA97
 }

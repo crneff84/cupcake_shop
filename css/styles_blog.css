@@ -15,6 +15,7 @@ body.about {
 .blog_post {
   border-style: solid;
   border-width: 1px;
+  margin-bottom: 10px;
 }
 .blog_title{
   font-size: 24px;
