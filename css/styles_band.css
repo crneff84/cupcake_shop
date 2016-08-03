@@ -1,0 +1,41 @@
+body {
+  background-color: #808080;
+  font-family: sans-serif;
+  color: black;
+}
+
+.center {
+  text-align: center;
+}
+
+.sidebar {
+  width: 275px;
+  float: left;
+  background-color: #809fff;
+  border: solid 1px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.site_content {
+  width: 500px;
+  float: left;
+  padding: 10px;
+  border: solid 1px;
+  margin-right: 10px;
+  background-color: #ffffcc
+}
+
+.eddie_pics {
+  background-color: #809fff;
+  width: 275px;
+  float: left;
+  padding: 10px;
+  border: solid 1px;
+}
+
+img {
+  width: 250px;
+  height: auto;
+  border: solid 1px;
+}
