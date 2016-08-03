@@ -1,0 +1,46 @@
+body {
+  text-align: left;
+  background-color: #F5FFFA;
+  font-family: sans-serif;
+  color: black;
+}
+
+body.about {
+  text-align: left;
+  background-color: #00bfff;
+  font-family: cursive;
+  color: red;
+}
+
+.blog_post {
+  border-style: solid;
+  border-width: 1px;
+}
+.blog_title{
+  font-size: 24px;
+}
+.blog_content{
+
+}
+
+img {
+  width: 800px;
+  height: auto;
+  border: solid 1px;
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+h1.about {
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+.about_section {
+  text-align: center;
+}
